@@ -29,7 +29,7 @@
         <tr>
             <td>2021 - current</td>
             <td> Sree Vidyanikethan Engineering College
-            <td>
+            </td>
         </tr>
         <tr>
             <td>2019 - 2021</td>
