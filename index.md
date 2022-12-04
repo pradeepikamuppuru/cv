@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html>
     <head>
         <meta charset="UTC-8">
@@ -74,7 +73,7 @@
         <ul>Reading books</ul>
         <ul>Watching Tv</ul>
         <ul>Listening Music</ul>
-        <hr size="2" color="DeepPink"
+        <hr size="2" color="DeepPink">
         <form class="" action="mailto:pradeepikamuppuru@gmail.com" method="post">
             <h1>Contact me</h1>
             <p><strong>Phone number</strong> 📞  8*******1</p>
